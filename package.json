@@ -1,6 +1,6 @@
 {
   "name": "ftpm-extended",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "description": "A Font Package Manager built on top of Google Web Fonts",
   "main": "ftpm.js",
   "directories": {

@@ -15,7 +15,7 @@
     "wrench": "^1.5.8"
   },
   "bin": {
-    "ftpm": "./ftpm.js"
+    "ftpm-extended": "./ftpm.js"
   },
   "engines": {
     "node": ">=0.8.0"

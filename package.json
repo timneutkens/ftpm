@@ -1,5 +1,5 @@
 {
-  "name": "ftpm",
+  "name": "ftpm-extended",
   "version": "0.0.18",
   "description": "A Font Package Manager built on top of Google Web Fonts",
   "main": "ftpm.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heldr/ftpm.git"
+    "url": "https://github.com/timneutkens1/ftpm"
   },
   "keywords": [
     "font",
@@ -41,6 +41,6 @@
     "google",
     "fonts"
   ],
-  "author": "Helder Santana",
+  "author": "Tim Neutkens",
   "license": "MIT"
 }
